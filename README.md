@@ -1,4 +1,4 @@
-# top-google-sheets-integrations
+# Top Google Sheets Integrations for Marketers in 2026
 
 Land data from ad platforms, social channels, analytics tools, online stores, and accounting software in Google Sheets, with no code. These are Coupler.io's most-used Google Sheets integrations: what each one can bring in, which Data Studio dashboards and reports teams build on the sheet, and how the setup works screen by screen.
 
