@@ -5,7 +5,7 @@ canonical: https://github.com/coupler-io/top-google-sheets-integrations/blob/mai
 source: WooCommerce
 destination: Google Sheets
 meta_title: Connect WooCommerce to Google Sheets with Coupler.io
-meta_description: Send WooCommerce Orders, Products, and Report: Sales report to Google Sheets for a store dashboard that stays current.
+meta_description: "Send WooCommerce Orders, Products, and Report: Sales report to Google Sheets for a store dashboard that stays current."
 ---
 
 ![WooCommerce](https://static.coupler.io/importers/woocommerce.svg) → ![Google Sheets](https://static.coupler.io/importers/google_spreadsheet.svg)

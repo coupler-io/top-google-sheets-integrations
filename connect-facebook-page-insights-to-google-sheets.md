@@ -5,7 +5,7 @@ canonical: https://github.com/coupler-io/top-google-sheets-integrations/blob/mai
 source: Facebook Page Insights
 destination: Google Sheets
 meta_title: Connect Facebook Page Insights to Google Sheets with Coupler.io
-meta_description: Export Page: performance insights and Post: posts lifetime performance from Facebook Page Insights to Google Sheets for fresh Data Studio reports.
+meta_description: "Export Page: performance insights and Post: posts lifetime performance from Facebook Page Insights to Google Sheets for fresh Data Studio reports."
 ---
 
 ![Facebook Page Insights](https://static.coupler.io/importers/facebook.svg) → ![Google Sheets](https://static.coupler.io/importers/google_spreadsheet.svg)

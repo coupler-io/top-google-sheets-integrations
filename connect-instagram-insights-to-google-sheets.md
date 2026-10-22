@@ -5,7 +5,7 @@ canonical: https://github.com/coupler-io/top-google-sheets-integrations/blob/mai
 source: Instagram Insights
 destination: Google Sheets
 meta_title: Connect Instagram Insights to Google Sheets with Coupler.io
-meta_description: Send Profile: daily reach and Story: performance totals (last 24 hours) from Instagram Insights to Google Sheets for current Data Studio dashboards.
+meta_description: "Send Profile: daily reach and Story: performance totals (last 24 hours) from Instagram Insights to Google Sheets for current Data Studio dashboards."
 ---
 
 ![Instagram Insights](https://static.coupler.io/importers/instagram-ads.svg) → ![Google Sheets](https://static.coupler.io/importers/google_spreadsheet.svg)
